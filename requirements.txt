@@ -1,0 +1,17 @@
+gradio
+torch>=2.0.0
+transformers
+accelerate
+peft
+trl
+datasets
+matplotlib
+pandas
+SpeechRecognition
+gTTS
+pydub
+bitsandbytes
+duckduckgo-search
+beautifulsoup4
+parsel
+httpx[http2]
